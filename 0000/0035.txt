@@ -1,19 +1,19 @@
 ﻿▲
 Pokédex
 Pokémon
-Bag
-TrainerCard
-Save
-Options
+Mochila
+Treinador
+Guardar
+Opções
  
 Chat
  
-Pokédex selected.
-Pokémon Status selected.
-Bag selected.
-Trainer Card selected.
-Save selected.
-Options selected.
-Now saving.
-The game was\xfffesuccessfully saved!
-Can't save while communicating.
+Pokédex selecionada.
+Pokémon Status selecionado.
+Mochila selecionada.
+Trainer Card selecionado.
+Salvar selecionado.
+Opções selecionadas.
+Salvar Agora.
+O jogo foi\xfffesalvo com sucesso!
+Não é possível salvar equanto está comunicando.
