@@ -1,146 +1,146 @@
 N/A
-Black
-White
-Boy
-Girl
-Battle
-Trade
-City
-Country
-Smart
-Athletic
-Time
-Money
-Looks
-Personality
+Preto
+Branco
+Garoto
+Garota
+Batalha
+Troca
+Cidade
+País
+Inteligente
+Atlético
+Tempo
+Dinheiro
+Estilos
+Personalidade
 Cool
 Cute
-Funny
-Pokabu
-Mijumaru
-Tsutarja
-Sea
-River
-Mountain
-Class
-Break
-Lunch
-Family
-Friends
-Self
-Spring
-Summer
-Fall
-Winter
-Sweet
-Spicy
-Sour
-Bitter
-Funny
+Engraçado
+Tepig
+Oshawott
+Snivy
+Mar
+Rio
+Montanha
+Classe
+Quebrar
+Lunche
+Família
+Amigos
+Auto
+Primavera
+Verão
+Outono
+Inverno
+Doce
+Picante
+Azedo
+Amargo
+Engraçado
 Cool
-Nice
-Rich
-Battling
-Collecting
-Storyline
+Bom
+Rico
+Lutando
+Recolher
+História
 Pokémon
-Language
-Math
-Science
-Social Studies
-Language
-Math
-Science
-Social Studies
-Trainer
+Linguagens
+Matemática
+Ciência
+Sociologia
+Linguagens
+Matemática
+Ciência
+Sociologia
+Treinador
 Professor
 Plasma Grunt
 Pokémon
-Play Outside
-Go Shopping
-Read Books
-Play Games
-Sleep
+Jogar Fora
+Loja
+Ler
+Jogo
+Sono
 Pop
 Rock
 Jazz
 Rap
 Classic
-News
+Notícias
 Drama
-Comedy
-Sports
+Comédia
+Esportes
 Anime
-Action
-Sci-Fi
-Love
+Ação
+Ficção Científica
+Amor
 Suspense
-Comedy
+Comédia
 Horror
-Baseball
-Soccer
-Basketball
-Football
+Basebol
+Futebol
+Basquetebol
+Futebol Américano
 Hockey
-Martial Arts
-Red
-Green
-Blue
-Yellow
-White
-Black
+Artes Marciais
+Vermelho
+Verde
+Azul
+Amarelo
+Branco
+Preto
 Fitness
-Reading
-Music
-Movies
-Travel
-Cooking
-Fishing
-Games
-Student
-Office Worker
-Creator
-Self-Employed
+Ler
+Musica
+Filmes
+Viagem
+Cozinhar
+Pescar
+Jogos
+Estudante
+Secretário
+Criador
+Trabalhador Independente
 Govt. Official
-Housewife
-Artist
-Job-Hopper
+Dona de Casa
+Artista
+Trabalho
 Pod
 Dent
 Corn
 Aloe
 Arti
 Kamitsure
-Yacon
+Yaco
 Fuuro
 Hachiku
 Iris
 Shaga
 Normal
-Fire
-Water
-Electric
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-0 - 10 hours
-10 - 20 hours
-20 - 30 hours
-30 - 40 hours
-40 - 50 hours
-50 - 60 hours
-60 - 70 hours
-70 - 80 hours
-80 - 90 hours
-90 - 100 hours
-100  hours
+Fogo
+Aquático
+Elétrico
+Grama
+Gelo
+Lutador
+Venenoso
+Terrestre
+Voador
+Psíquico
+Inseto
+Pedra
+Fantasma
+Dragão
+Noturno
+Aço
+0 - 10 horas
+10 - 20 horas
+20 - 30 horas
+30 - 40 horas
+40 - 50 horas
+50 - 60 horas
+60 - 70 horas
+70 - 80 horas
+80 - 90 horas
+90 - 100 horas
+100 horas
