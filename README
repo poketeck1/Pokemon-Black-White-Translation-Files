@@ -1,9 +1,18 @@
-This is a project for translating the text of Pokémon Black/White.
+Este é um projeto para traduzir o texto de Pokémon Black/White.
 
-We are working with the 0000 directory. Feel free to fork and edit the 0001 directory with translations of other languages or other concepts (such as keeping Romaji names for all pokemon and items instead of some English and some Romaji)
+Estamos trabalhando com o diretório de 0000. Sinta-se livre para garfo e editar o diretório 0001 com traduções de outras línguas ou outros conceitos.
 
-Credits:
-Translation contributions in no particular order:
+Créditos:
+
+Tradução PT-BR:
+
+DarkGhost
+Scizor
+PoRyGoN
+Giratina
+CoYo
+
+Tradução EN:
     Kazo
     Kaarosu
     njt
@@ -47,9 +56,7 @@ Translation contributions in no particular order:
     ruinairas
     MadMax11
     tincancrab
-...and growing I'll update this as we go let me know if I missed you
 
-Non-Translation contributions:
     Codr 		Insight as to the structure of the characters
     Eevee 		First decrypting text
     Kazo 		Idea for encryption
