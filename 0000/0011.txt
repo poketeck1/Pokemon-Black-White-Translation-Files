@@ -1,68 +1,68 @@
-﻿\xf000ȁ\x0001\x0000
-Total \xf000Ȅ\x0001\x0000
-Who will you thank?
-You thanked \xf000Ā\x0001\x0000!
-Will you use\xfffe\xf000đ\x0001\x0001?\xfffeNeeded: \xf000Ȃ\x0001\x0002 / Held: \xf000Ȃ\x0001\x0003
-Will you use \xf000đ\x0001\x0001\xfffeactivated by \xf000Ā\x0001\x0000?
-Special Exit Power activated!!\xfffeWill you use\xfffe\xf000đ\x0001\x0001?
-Used \xf000đ\x0001\x0001!
-You don't have enough Exit Balls\xfffeto use Exit Power.\xfffeNeeded: \xf000Ȃ\x0001\x0002 / Held: \xf000Ȃ\x0001\x0003
-Using \xf000đ\x0001\x0001.\xfffe\xf000ȁ\x0001\x0005 seconds remaining.
-Using \xf000đ\x0001\x0001.\xfffe\xf000Ȃ\x0001\x0004 minutes,\xfffe\xf000ȁ\x0001\x0005 seconds remaining.
-You said\xfffe"\xf000Ĝ\x0001\x0000"!
-Confirm
-Yes
-No
-Confirm
-Close
+\xf000ȁ\x0001\x0000
+Total\xf000Ȅ\x0001\x0000pessoas
+A quem quer agradecer?
+Você agradeceu \xf000Ā\x0001\x0000!
+Quer usar?\xfffe\xf000đ\x0001\x0001?\xfffeNecessta: \xf000Ȃ\x0001\x0002 / Tem: \xf000Ȃ\x0001\x0003
+Vai usar \xf000đ\x0001\x0001\xfffeativado por \xf000Ā\x0001\x0000?
+O poder foi iniciado!!\xfffe\xf000đ\x0001\x0001を\xfffeQuer utilizá-lo?
+\xf000đ\x0001\x0001Usado!
+Não tem Balls suficientes\xfffePara usar o poder \xfffenecesita　\xf000Ȃ\x0001\x0002こ／Tem\x00000Ȃ\x0001\x0003こ
+\xf000đ\x0001\x0001を\xfffeUsando\xfffeのこり　\xf000ȁ\x00001\x0005びょう
+\xf000đ\x0001\x0001を\xfffeUsando\xfffeのこり　\xf000Ȃ\x00001\x0004ふん\xf000ȁ\x0001\x0005びょう
+『\xf000Ĝ\x0001\x0000』と\xfffedisse!
+Confirmar
+Sim
+Não
+Confirmar
+Sair
 Okay?
-"\xf000Ā\x0001\x0000" is near.
-\xf000Ā\x0001\x0000 started\xfffefighting a wild \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 won\xfffeagainst a wild \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 started\xfffefighting a special Pokémon!
-\xf000Ā\x0001\x0000 won\xfffeagainst a special Pokémon!
-\xf000Ā\x0001\x0000 began\xfffebattling \xf000Ď\x0001\x0001's \xf000Ā\x0001\x0002!
-\xf000Ā\x0001\x0000 won\xfffeagainst \xf000Ď\x0001\x0001's \xf000Ā\x0001\x0002!
-\xf000Ā\x0001\x0000 began\xfffebattling a gym leader!
-\xf000Ā\x0001\x0000 won\xfffeagainst a gym leader!
-\xf000Ā\x0001\x0000 began\xfffebattling a special trainer!
-\xf000Ā\x0001\x0000 won\xfffeagainst a special trainer!
-\xf000Ā\x0001\x0000 began\xfffebattling a special trainer!
-\xf000Ā\x0001\x0000 won\xfffeagainst a special trainer!
-\xf000Ā\x0001\x0000 caught\xfffea wild \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 caught\xfffea special Pokémon!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffejust leveled up!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 evolved\xfffeinto \xf000ā\x0001\x0001!
-This is a dummy message\xfffeto match the Action ID\xfffeand the game.
-\xf000Ā\x0001\x0000 found\xfffea \xf000ĉ\x0001\x0001!
-\xf000Ā\x0001\x0000 passed\xfffe\xf000Ȃ\x0001\x0001 hours of playtime!
-\xf000Ā\x0001\x0000 completed\xfffethe Pokédex!
-\xf000Ā\x0001\x0000 passed\xfffe\xf000Ȃ\x0001\x0001 thank-yous!
-\xf000Ā\x0001\x0000 is at\xfffethe Union Room receptionist.
-\xf000Ā\x0001\x0000\xfffethanked you!
-Currently transmitting\xfffe\xf000ā\x0001\x0001!
-Currently transmitting\xfffe\xf000ĉ\x0001\x0001!
-Currently transmitting\xfffea Mystery Gift!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002's attack\xfffewas a critical hit!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 took\xfffea critical hit!
-\xf000Ā\x0001\x0000 ran\xfffeaway from battle!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is\xfffelow on HP!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is\xfffelow on PP!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is\xfffefainted!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 has\xfffea status effect!
-\xf000Ā\x0001\x0000 is\xfffeusing \xf000ĉ\x0001\x0001.
-\xf000Ā\x0001\x0000 is\xfffeusing \xf000ć\x0001\x0001.
-\xf000Ā\x0001\x0000 received\xfffea egg.
-\xf000Ā\x0001\x0000's egg\xfffehatched into \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 is\xfffeshopping.
-\xf000Ā\x0001\x0000 is\xfffechallenging the Battle Subway.
-\xf000Ā\x0001\x0000 is\xfffeon the Battle Subway\xfffeat \xf000Ȁ\x0001\x0001 in a row!
-\xf000Ā\x0001\x0000 got\xfffea trophy on\xfffethe Battle Subway!
-\xf000Ā\x0001\x0000 is\xfffechallenging the Trial House.
-\xf000Ā\x0001\x0000 was\xffferecognized as \xf000ģ\x0001\x0001\xfffeat the Trial House!
-\xf000Ā\x0001\x0000 got on\xfffethe Ferris wheel.
-\xf000Ā\x0001\x0000 started\xfffeusing the PokéShifter.
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is\xfffeparticipating in a musical.
-\xf000Ā\x0001\x0000 used the\xfffe\xf000đ\x0001\x0001 they received!
-\xf000Ā\x0001\x0000 said\xfffe"\xf000Ĝ\x0001\x0001"
-This is a dummy message\xfffeto match the Action ID\xfffeand the game.
+"\xf000Ā\x0001\x0000" está perto.
+\xf000Ā\x0001\x0000 começou a\xfffebatalhar com um selvagem \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 venceu\xfffecontra um selvagem \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 iniciou\xfffea lutar contra um Pokémon especial!
+\xf000Ā\x0001\x0000 venceu\xfffecontra um Pokémon especial!
+\xf000Ā\x0001\x0000 iniciou\xfffea batalha \xf000Ď\x0001\x0001's \xf000Ā\x0001\x0002!
+\xf000Ā\x0001\x0000 venceu\xfffecontra \xf000Ď\x0001\x0001's \xf000Ā\x0001\x0002!
+\xf000Ā\x0001\x0000 começou\xfffeuma batalha contra o líder de Ginásio!
+\xf000Ā\x0001\x0000 ganhou\xfffea batalha contra o líder de Ginásio!
+\xf000Ā\x0001\x0000 começou\xfffea batalha com um Treinador especial!
+\xf000Ā\x0001\x0000 venceu\xfffeo Treinador especial!
+\xf000Ā\x0001\x0000 começou\xfffea batalha com um Treinador especial!
+\xf000Ā\x0001\x0000 venceu\xfffeo Treinador especial!
+\xf000Ā\x0001\x0000 capturou\xfffeum selvagem \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 capturou\xfffeum Pokémon especial!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffesubiu de nível!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 evoluiu\xfffepara \xf000ā\x0001\x0001!
+Esta é uma mensagem fictícia\xfffepara coincidir com o Action ID\xfffee do jogo.
+\xf000Ā\x0001\x0000 encontrou\xfffeuma \xf000ĉ\x0001\x0001!
+\xf000Ā\x0001\x0000 passou\xfffe\xf000Ȃ\x0001\x0001 horas jogando!
+\xf000Ā\x0001\x0000 completou\xfffea Pokédex!
+\xf000Ā\x0001\x0000 passou\xfffe\xf000Ȃ\x0001\x0001 agradecendo!
+\xf000Ā\x0001\x0000 está\xfffeem frente a mesa da sala de Reuniões.
+\xf000Ā\x0001\x0000\xfffeagradeceu você!
+Atualmente\xf000ā\x0001\x0001を\xfffea tranferir!
+Atualmente\xf000ĉ\x0001\x0001を\xfffea tranferir!
+Atualmente está a tranferir\xfffeum Mistery Gift!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002's atacou\xfffefoi um critical hit!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 levou\xfffeum critical hit!
+\xf000Ā\x0001\x0000 ran\xfffeescapou!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 está\xfffecom pouco HP!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 está\xfffecom pouco PP!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 está\xfffedesmaiado!
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 está\xfffecom um efeito de status!
+\xf000Ā\x0001\x0000 está\xfffeusando \xf000ĉ\x0001\x0001.
+\xf000Ā\x0001\x0000 está\xfffeusando \xf000ć\x0001\x0001.
+\xf000Ā\x0001\x0000 recebeu\xfffeum ovo.
+O ovo de \xf000Ā\x0001\x0000 \xfffeeclodiu em \xf000ā\x0001\x0001!
+\xf000Ā\x0001\x0000 está\xfffecomprando.
+\xf000Ā\x0001\x0000 atualmente está\xfffepreparando para batalhar no Battle Subway.
+\xf000Ā\x0001\x0000 está\xfffesobre o Battle Subway\xfffeem \xf000Ȁ\x0001\x0001 uma fila!
+\xf000Ā\x0001\x0000 ganhou\xfffeum troféu no\xfffeBattle Subway!
+\xf000Ā\x0001\x0000 está\xfffedesafiando na Trial House.
+\xf000Ā\x0001\x0000 foi\xfffereconhecido(a)\xf000ģ\x0001\x0001\x0000a Trial House!
+\xf000Ā\x0001\x0000 entrou\xfffena Roda Gigante.
+\xf000Ā\x0001\x0000 começou\xfffea usar o PokéShifter.
+\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 está\xfffeparticipando de um musical.
+\xf000Ā\x0001\x0000 utilizado o\xfffe\xf000đ\x0001\x0001que eles receberam!
+\xf000Ā\x0001\x0000 disse\xfffe"\xf000Ĝ\x0001\x0001"
+Esta é uma mensagem fictícia\xfffepara coincidir com o Action ID\xfffee do jogo.
