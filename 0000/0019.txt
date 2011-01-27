@@ -1,4 +1,4 @@
-﻿\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
 PP
 \xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
 \xf000Ă\x0001\x0000♂
@@ -7,7 +7,7 @@ PP
 \xf000Ȃ\x0001\x0000
 /
 \xf000ȁ\x0001\x0000
-Saving your game! \xfffePlease wait!
-Save file is corrupted.\xfffeThe previous save file will be loaded.
-Skipping!\xfffePlease wait!
-Paused...\xfffePlease wait!
+Salvando o jogo... \xfffeAguarde.
+Os dados guardados estão corrompidos. \xfffeSalvar anterior vai ser carregado.
+Avançando...\xfffePor favor, aguarde!
+Pausado...\xfffePor favor, aguerde
