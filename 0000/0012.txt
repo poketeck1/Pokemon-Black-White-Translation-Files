@@ -1,8 +1,8 @@
-﻿\xf000ā\x0001\x0000
+\xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-Held Item
-Nature
-Ability
+Item Equipado
+Natureza
+Abilidade
 \xf000ċ\x0001\x0000
 Box 1
 Box 2
@@ -29,84 +29,84 @@ Box 22
 Box 23
 Box 24
 \xf000ȁ\x0001\x0000
-Jump
+Saltar
 Wallpaper
-Name
-Quit
-Scenery 1
-Scenery 2
-Scenery 3
+Nome
+Sair
+Cenário 1
+Cenário 2
+Cenário 3
 Etc.
-Loving 1
-Loving 2
-Woods
-City
-Desert
-Savannah
-Rocky Mountain
-Volcano
-Snowy Mountain
-Cave
-Beach
-Sea Floor
-River
-Sky
-Pokémon Center
+Amando 1
+Amando 2
+Floresta
+Cidade
+Deserto
+Savana
+Montanha Rochosa
+Vulcão
+Montanha Nevada
+Caverna
+Praia
+Mar
+Rio
+Céu
+Centro Pokémon
 Metal
 Check
-Simple
+Simples
 Special
 Reshiram
 Zekrom
-Monochrome
-Team Plasma
+Monocromátimo
+Equipe Plasma
 Munna
 Zoroark
 Subway
 Musical
-Back
-Forward
-Next
+Atrás
+Frente
+Próximo
 Party
-Box List
-Battle Box
-Switch Box
-Organize Bag
-View Status
-Held Item
+Lista de Boxs
+Box de Batalha
+Mudar Box
+Organizar Mochila
+Ver Status
+Item Equipado
 Marking
-Release
-Take
-Store
-Quit
-Move
-Move
-Sleep
+Libertar
+Tirar
+Depositar
+Sair
+Mover
+Mover
+Dormir
 OK
-Quit
-Change
-Quit
-Quit
-Change\xfffeBox
-Change\xfffeWallpaper
-Store\xfffePokemon
-To bag
+Sair
+Trocar
+Sair
+Sair
+Trocar\xfffeBox
+Trocar\xfffeWallpaper
+Depositar\xfffePokémon
+Para a Mochila
 Hold
-Move
+Mover
 ♂
 ♀
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-Nature
-Ability
-Held Item
+Natureza
+Abilidade
+Item Equipado
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-None
+Nada
 ???
 Lv.
 No.
-Moves
-Yes
-No
+Ataques
+Sim
+Não
