@@ -2,12 +2,12 @@ C-Gear
 IR
 Wireless
 GameSync
-Trade
-Battle
-Friend Code
-Card
+Trocar
+Batalha
+Códico do Amigo
+Carta
 C-Gear>IR
-C-Gear>IR>Battle
-C-Gear>IR>Battle>Trade
+C-Gear>IR>Batalha
+C-Gear>IR>Batalha>Troca
 C-Gear＞GameSync
 C-Gear>Wireless
