@@ -1,37 +1,37 @@
-﻿Options
-Text Speed
-Battle Scene
-Battle Style
-Sound
-Display Text
-Frame
-IR Report
-Confirm
-Quit
-Slow
-Mid
-Fast
-On
-Off
-Shift
-Set
-Stereo
+Opções
+Velocidade do Texto
+Cena de Batalha
+Estilho de Batalha
+Som
+Visor de Texto
+Moldura
+IR Relatório
+Confirmar
+Sair
+Lento
+Médio
+Rápido
+Ligado
+Desligado
+Mudança
+Configuração
+Estéreo
 Mono
-English
-Japanese
-Write
-Off
-Write
-Don't
-The text speed can be set\xfffein three different speeds.
-Choose to display battle animations.
-Choose the standard rules\xfffeof shifting Pokémon in battle.
-Choose to play the sound\xfffein stereo or in mono mode.
-Choose to display text\xfffein English or Japanese.
-Choose to have constant wireless\xfffecommunication on or off.
-Choose whether to write a report\xfffebefore C-Gear infrared communications.
-Another report has already been written,\xfffeso this cannot be changed.\xf000븁\x0000
-Make the selected changes?
-Yes
-No
-Dummy Message
+Português
+Japonês
+Escrever
+Desligado
+Escrever
+Não
+A velocidade do texto pode ser definido\xfffeem  três velocidades diferentes.
+Escolha para exibir animações de batalha.
+Escolha as normas padrão\xfffede mudança de Pokémon na batalha.
+Escolha para tocar o som\xfffeem estéreo ou mono.
+Escolha para mostrar o texto\xfffeem Português ou Kanji.
+Optar por ter comunicação wireless\xfffeconstante ligada ou desligada.
+Escolha se deseja escrever um relatório\xfffeantes da comunicação infravermelha no C-Gear.
+Outro relatório já foi escrito,\xfffeentão tal não pode ser mudado.\xf000븁\x0000
+Salvar as alterações selecionadas?
+Sim
+Não
+Mensagem falsa
