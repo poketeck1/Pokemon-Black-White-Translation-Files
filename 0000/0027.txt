@@ -1,41 +1,43 @@
 Botão X
-SELETAR
+SELECIONAR
 Botão B
 Usar ferramenta de Rabisco
 Cancelar Imagem
-Parar de desenhar
+Parar de Desenhar
 Alterar tamanho da Caneta
 Cor do Pincel
 Alterar Apagador
 Fechar ferramenta de Rabisco
 Carimbo
-Modo Rabiscado
+MOdo Rabisco
 REC
 Rabisco
-ＩＤ\xf000Ȅ\x0001\x0000
+ID\xf000Ȅ\x0001\x0000
 ―/―
 \xf000Ȁ\x0001\x0000/４
-CPor favor, escolha um amigo.
+Escolha um Amigo.
 Chamar Amigo
-
-Chamando Amigo...
-Chamando Amigo...
-Chamando Amigo...
-Chamando Amigo...
+Entrar
+Chamando amigo!
+Chamando amigo.
+Chamando amigo..
+Chamando amigo...
+Conectando!
+Conectando.
+Conectando..
 Conectando...
-Conectando...
-Conectando...
-Conectando...
-Procurando amigo...
-Procurando amigo...
-Procurando amigo...
-Procurando amigo...
-Concluir Livecasting?
-Deseja parar \xfffee desconectar?
+Procurando por amigos!
+Procurando por amigos.
+Procurando por amigos..
+Procurando por amigos...
+Para de usar o\xfffeLive Caster?
+Se o líder sai, o grupo\xfffevai se dissolver. Está certo?
 Sim
 Não
-Parando e desconectando...
-O seu oponente desconectou.
+O lider saiu, assim o\xfffegrupo vai se dissolver.
+Seu oponente desconectou, assim o\xfffegrupo vai se dissolver.
 Todos os outros membros saíram.
-Ocorreu um erro. Reiniciando-se...
-Ocorreu um erro. Reiniciando-se...
+Houve um erro na chamada.
+Houve um erro na ligação.
+Devido ao controle dos pais,\xfffea transferência dos dados da fotografia\xfffeé restrita.\xfffeSe você quiser ver as imagens,\xffferemova as restrições\xfffenas configurações principais.
+Esperando seu parceiro para terminar.
