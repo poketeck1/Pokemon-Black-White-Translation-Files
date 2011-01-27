@@ -1,16 +1,16 @@
-﻿Welcome to the Global Link\xfffeBattle Tournament!
-By connecting to Wi-Fi, you\xfffecan battle other players\xf000븀\x0000\xfffefrom all over the world.\xf000븁\x0000\xfffeIt doesn't matter where the Trainers\xfffecome from, you can always battle!\xf000븁\x0000\xfffeYou can battle infinitly against\xfffeplayers via Wi-Fi.\xf000븁\x0000\xfffeThere is also a mode where\xfffecan battle players short-by.\xf000븁\x0000\xfffeJust remember: If you want\xfffebattle a random player,\xf000븀\x0000\xfffecome to the Battle Tournament!\xf000븀\x0000\xfffeThere always players to battle.\xf000븁\x0000
-Connect through Wi-Fi
-Connect through Wireless
-View digital player award
-Information
-Quit
-Enter
-You can't battle yet. You\xfffefirst have to register on\xf000븀\x0000\xfffethe Global Link website.\xf000븀\x0000\xfffeTo do this, make an account\xf000븀\x0000\xfffeon the following website.\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeGo on your PC and register\xfffean account on that website.\xf000븁\x0000
-Do what through Wi-Fi?
-Do you want to stop\xfffeparticipating?
-Yes
-No
-Cancel participation
-Do what through Wireless?
-You can't battle yet. You\xfffefirst have to register on\xf000븀\x0000\xfffethe Global Link website.\xf000븀\x0000\xfffeTo do this, make an account\xf000븀\x0000\xfffeon the following website.\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeGo on your PC and register\xfffean account on that website.\xf000븁\x0000
+Bem-vindo ao Global Link\xfffeTorneio de Batalha!
+Ao se conectar a redes WiFi, você\xfffepode batalhar com outros jogadores\xf000븀\x0000\xfffede todo o mundo.\xf000븁\x0000\xfffeNão importa de onde eles são\xfffevocê pode sempre batalhar!\xf000븁\x0000\xfffeVocê pode batalhar infinitamente com outros\xfffejogadores via Wi-Fi.\xf000븁\x0000\xfffeTambém exsite o modo em que\xfffepode lutar com os seus amigos por Wireless.\xf000븁\x0000\xfffeMas lembre-se: Se quer\xfffeuma batalha com um jogador aleatório,\xf000븀\x0000\xfffevenha para o Torneio da Batalha!\xf000븀\x0000\xfffeHá sempre jogadores com que Batalhar.\xf000븁\x0000
+Ligação por Wi-Fi
+Ligação por Wireless
+Ver jogador digital atribuído
+Informação
+Sair
+Entrar
+Você não pode lutar ainda. Você\xfffeprimeiro deve se registrar no\xf000븀\x0000\xfffesite Global Link.\xf000븀\x0000\xfffePara fazer isto, é necessário uma conta\xf000븀\x0000\xfffeno seguinte site.\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeVá ao seu PC e registre\xfffeuma conta no site.\xf000븁\x0000
+Fazer o que por Wi-Fi?
+Você quer deixar de\xfffeparticipar?
+Sim
+Não
+Participação Cancelada
+Fazer o que através do Wireless?
+Você não pode lutar ainda. Você\xfffeprimeiramente deverá se registrar no\xf000븀\x0000\xfffesite Global Link.\xf000븀\x0000\xfffePara fazer isto, crie uma conta\xf000븀\x0000\xfffeno seguinte site.\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeVá ao seu PC e abra uma conta no site.\xf000븁\x0000
