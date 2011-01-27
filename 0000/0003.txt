@@ -1,61 +1,61 @@
-Do you want to save\xfffethis match in your VS Recorder?
-Yes
-No
-Data will be lost forever.\xfffeAre you sure?
-Yes
-No
-You will be overwriting your previous battle video.\xfffeIs that OK?
-Yes
-No
-Your video is now saving.\xfffePlease wait!
-Your match has been saved.
-There was an error.\xfffeVideo couldn't be saved.
-Waiting for your opponent.\xfffePlease wait a moment!
-Your opponent is not ready.\xfffePlease wait a moment!
-You cannot record a match with this opponent.
-You cannot record this match.
-SELECT TIME
-\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Você quer guardar\xfffeessa batalha em seu Vs Recorder?
+Sim
+Não
+Os dados irão se perder para sempre,\xfffevocê tem certeza?
+Sim
+Não
+Ao fazer isso você irá substituir o Video da batalha anterior.\xfffeTem certeza disso?
+Sim
+Não
+O seu video está sendo guardado.\xfffePor favor, Aguarde!
+A sua batalha foi guardada.
+Ocorreu um erro\xfffeNão foi possivel guardar o vídeo.
+Esperando por um oponente\xfffe Por favor aguarde!
+O seu oponente ainda não está pronto\xfffe Por favor, Aguarde!
+Você não pode gravar uma batalha com este oponente.
+Você não podes gravar esta batalha.
+ＳＥＬＥＣＴ　ＴＩＭＥ
+\xf000ȁ\x0001\x0000xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-Previous Record
-Single Coliseum\xfffeUnrestricted
-Single Coliseum\xfffeFlat
-Single coliseum\xfffeUnrestricted Shooting
-Single Coliseum\xfffeRestricted Shooting
-Double Coliseum\xfffeUnrestricted
-Double Coliseum\xfffeFlat
-Double Coliseum\xfffeUnrestricted Shooting
-Double Coliseum\xfffeRestricted Shooting
-Triple Coliseum\xfffeUnrestricted
-Triple Coliseum\xfffeFlat
-Triple Coliseum\xfffeUnrestricted Shooting
-Triple Coliseum\xfffeRestricted Shooting
-Rotation Coliseum\xfffeUnrestricted
-Rotation Coliseum\xfffeFlat
-Rotation Coliseum\xfffeUnrestricted Shooting
-Rotation Coliseum\xfffeRestricted Shooting
-Multi Coliseum\xfffeUnrestricted
-Multi Coliseum\xfffeFlat
-Multi Coliseum\xfffeUnrestricted Shooting
-Multi Coliseum\xfffeRestricted Shooting
-Battle Subway\xfffeSingle
-Battle Subway\xfffeDouble
-Battle Subway\xfffeMulti
-Free Random Matches\xfffeSingle
-Free Random Matches\xfffeDouble
-Free Random Matches\xfffeTriple
-Free Random Matches\xfffeRotation
-Free Random Matches\xfffeMiracle Shooter
-Random Match Rating\xfffeSingle
-Random Match Rating\xfffeDouble
-Random Match Rating\xfffeTriple
-Random Match Rating\xfffeRotation
-Random Match Rating\xfffeMiracle Shooter
-Single Tournament\xfffeNo Miracle Shooter
-Single Tournament\xfffeMiracle Shooter
-Double Tournament\xfffeNo Miracle Shooter
-Double Tournament\xfffeMiracle Shooter
-Triple Tournament\xfffeNo Miracle Shooter
-Triple Tournament\xfffeMiracle Shooter
-Rotation Tournament\xfffeNo Miracle Shooter
-Rotation Tournament\xfffeMiracle Shooter
+Recorde Anterior
+Coliseu Único\xfffeIrrestrito
+Coliseu Único\xfffeApartamento
+Coliseu Único\xfffeRodagem irrestrita
+Coliseu Único\xfffeRodagem restrita
+Coliseu Duplo\xfffeIrrestrito
+Coliseu Duplo\xfffeApartamento
+Coliseu Duplo\xfffeRodagem irrestrita
+Coliseu Duplo\xfffeRodagem restrita
+Coliseu Triplo\xfffeIrrestrito
+Coliseu Triplo\xfffeApartamento
+Coliseu Triplo\xfffeRodagem irrestrita
+Coliseu Triplo\xfffeRodagem restrita
+Coliseu Rotativo\xfffeIrrestrito
+Coliseu Rotativo\xfffepartamento
+Coliseu Rotativo\xfffeRodagem irrestita
+Coliseu Rotativo\xfffeRodagem restrita
+Coliseu Multi\xfffeIrrestrito
+Coliseu Multi\xfffeApartamento
+Coliseu Multi\xfffeRodagem irrestrita
+Coliseu Multi\xfffeRodagem restrita
+Batalha no Metro\xfffeÚnico
+Batalha no Metro\xfffeDuplo
+Batalha no Metro\xfffeMulti
+Jogos Aleatórios\xfffeÚnico
+Jogos Aleatórios\xfffeDuplo
+Jogos Aleatórios\xfffeTriplo
+Jogos Aleatórios\xfffeRotativo
+Jogos Aleatórios\xfffeMulti
+Jogo Aleatório De Avaliação\xfffeÚnico
+Jogo Aleatório De Avaliação\xfffeDuplo
+Jogo Aleatório De Avaliação\xfffeTriplo
+Jogo Aleatório De Avaliação\xfffeRotativo
+Jogo Aleatório De Avaliação\xfffeMulti
+Quer uma batalha de 1 contra 1?\xfffeSem Atirador Milagroso
+Quer uma batalha de 1 contra 1?\xfffeCom Atirador Milagroso
+Quer uma batalha de 2 contra 2?\xfffeSem Atirador Milagroso
+Quer uma batalha de 2 contra 2?\xfffeCom Atirados Milagroso
+Quer uma batalha de 3 contra 3?\xfffeSem Atirador Milagroso
+Quer uma batalha de 3 contra 3?\xfffeCom Atirador Milagroso
+Torneio Rotativo?\xfffeSem Atirador Milagroso
+Torneio Rotativo?\xfffeCom Atirador Milagroso
