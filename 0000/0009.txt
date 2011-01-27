@@ -1,8 +1,8 @@
-﻿Begin the battle\xfffeat the proper location!
-Please wait a moment.\xfffe(B to cancel)
-Then please choose\xfffethree Pokémon to enter.\xf000븁\x0000
-Then please choose\xfffefour Pokémon to enter.\xf000븁\x0000
-Then please choose\xfffesix Pokémon to enter.\xf000븁\x0000
-Quit the game?\xfffeAre you sure?
-Quitting.\xfffePlease wait.
+Começe a batalha\xfffeno local apropriado!
+Por favor, aguarde um momento.\xfffe(B para cancelar)
+Então, por favor escolha\xfffetrês Pokémons para entrar.\xf000븁\x0000
+Então, por favor escolha\xfffequatro Pokémons para entrar.\xf000븁\x0000
+Então, por favor escolha\xfffeseis Pokémons para entrar.\xf000븁\x0000
+Sair do jogo?\xfffeVocê tem certeza?
+Saindo.\xfffePor favor, aguarde.
 Saw \xf000Ā\x0001\x0000's\xfffeTrainer Case!
