@@ -1,7 +1,7 @@
-﻿Turn on the C-Gear\xfffeand begin communication?
-When the C-Gear is enabled,\xfffeeven if the lid of the DS is closed,\xfffeit will not go into Sleep Mode.\xfffePlease be wary of your battery life.
-Turn off the C-Gear\xfffeand close communications?
-\xf000\xff00\x0001\x0001WARNING!\xf000\xff00\x0001\x0000\xfffeIn places with restrictions\xfffeon wireless communication,\xfffesuch as airplanes or hospitals,\xfffeplease turn off the C-Gear.
-C-Gear could not be turned on.\xfffeRadio communications\xfffeare currently off.\xfffePlease turn on communications\xfffein the wireless settings. (50699)
-Yes
-No
+Deseja ligar o C-Gear?\xfffePor favor, lê o aviso abaixo.
+Ligando C-Gear...\xfffeA conexão wireless da DS\xfffeitestá sendo usada com isso.
+Deseja ligar o C- Gear?\xfffePor favor, lê o aviso abaixo.
+\xf000\xff00\x0001\x0001PERIGO: Bateria Fraca\xf000\xff00\x0001\x0000\xfffeA energia\xfffecontinua sendo utilizada mesmo apos,\xfffo DS estar fechado. Isto pode de causar \xfffe, fazendo com que a bateria fique completamente sem energia.
+Erro ao tentar ligar o C-Gear.\xfffePor favor.\xfffeVerifique a sua conexão.
+Sim
+Não
